@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    
+}
+input{
+    margin-top: 30px;
+    margin-bottom: 3px;
+    font-size: 20px;
+    text-align: right;
+  }
+
+  button {
+    width: 50px;
+    height: 50px;
+    background-color: #ddd;
+    color: #333;
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+  }
+  button:hover {
+    background-color:aqua
+  }
+ .operator:hover {
+    background-color:yellowgreen;
+  }
+  .clear:hover {
+    background-color:red;
+  }
+  .delete:hover {
+    background-color:orchid;
+  }
+  .delete:hover {
+    background-color:orchid;
+  }
+  .history:hover {
+    background-color:blue;
+  }
+ .equals{
+    background-color:blue;
+
+ }
+
+
+
+

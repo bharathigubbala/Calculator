@@ -1,0 +1,65 @@
+body{
+    background-color: antiquewhite;
+    background-image:url('./img/img/pre.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+p{
+    text-align: center;
+    font-size: large;
+    color: white;
+
+
+}
+.text{
+    text-align: center;
+    margin-top:100px;
+    font-size: large;
+    color: white;
+}
+.text p{
+    font-size: 15px;
+text-transform: uppercase;
+}
+.button{
+text-align: center;
+
+
+}
+.button :hover{
+    color: red;
+
+
+
+}
+
+fieldset{
+    text-align: center;
+    margin: auto;
+    width: 30px;
+    height: 150px;
+    border-radius: 2em;
+}
+h3{
+    margin-left: 40px;
+    padding-top: 10px;
+    color: azure; 
+    font-size: 25px; 
+  }
+  li{
+      font-size: large;
+      padding: 10px;
+      color: azure; 
+
+  }
+  a{
+    text-align: center;
+    text-decoration: none;
+    color:navajowhite;
+    font-size: 19px;
+  }
